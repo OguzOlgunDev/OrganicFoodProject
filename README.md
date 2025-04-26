@@ -5,8 +5,8 @@
 A responsive and modern organic food website built with HTML and CSS.
 The project focuses on clean UI design, mobile responsiveness, and user-friendly navigation.
 
-!!! There are many missing part for now I am planing to complete this project later for now I used Sass vanilla css html 
-The structure for Sass is 7/1 arthitecture but I dont use Themes and Vendors because, I only need bootstrap for making responsive easy and there are no Themes for my project
+!!! There are many missing part for now I am planing to complete this project later. I used Sass vanilla css html 
+The structure for Sass is 7/1 arthitecture but I dont use Themes and Vendors folders there are no files like that because, I only need bootstrap for making responsive easy and there are no Themes for my project
 
 Missing Part is for now:
   I am planing to add a opanable navbar. It should be there I know :) but missing 
